@@ -114,6 +114,7 @@ Déterminer son type de foulée parmi les 4 grands profils (aérien/terrien, dyn
 - Noter chaque critère de 1 (faible) à 5 (marqué)
 
 ## Grille d’analyse
+
 | Critère | Observation attendue | Score (1 à 5) | Commentaire |
 |---------|----------------------|----------------|-------------|
 | Posture du tronc | Verticale (5) → Penchée avant (1) | ⬜ |  |
@@ -134,6 +135,7 @@ Déterminer son type de foulée parmi les 4 grands profils (aérien/terrien, dyn
 - 10 à 19 → Foulée terrienne économique
 
 ## Exemple d’observation remplie
+
 | Critère | Observation | Score | Commentaire |
 |---------|-------------|--------|-------------|
 | Posture | Verticale | 5 | Tronc bien droit |
@@ -146,4 +148,5 @@ Déterminer son type de foulée parmi les 4 grands profils (aérien/terrien, dyn
 | Impulsion | Moyenne | 3 | Potentiel de rebond |
 | Relâchement | Bon | 4 | Bras fluides |
 | Bruit | Faible | 4 | Pose discrète |
+
 **Total : 37 → Foulée aérienne économique**
