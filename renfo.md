@@ -1,9 +1,12 @@
 ---
 layout: default
-title: Séances Trail
+title: Séances renfortement musculaire
 ---
 
-# Séances de Renforcement Musculaire pour le Trail selon le Type de Foulée
+# Séances de Renforcement Musculaire 
+
+
+Ces séances sont spécifiques a chauqe type de foulée.
 
 Chaque séance dure 30 minutes :  
 - 5 minutes d’échauffement  

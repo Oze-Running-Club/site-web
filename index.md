@@ -9,6 +9,7 @@ Ce site regroupe plusieurs ressources d'entraînement classées par type de trav
 
 ## 📂 Contenus disponibles
 
+
+- [Guide type de foulee](./foulee.md)
 - [Renforcement musculaire selon le type de foulée](./renfo.md)
-- (À venir) Plans trail progressifs
 
