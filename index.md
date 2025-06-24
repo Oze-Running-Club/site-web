@@ -8,6 +8,7 @@ title: Ateliers de foulee du Jeudi
 
 - [Atelier 1](./atelier-1.md)
 - [Atelier 2](./atelier-2.md)
+- [Atelier 3](./atelier-3.md)
 
 
 ## Documents disponibles
