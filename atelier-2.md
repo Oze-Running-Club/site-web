@@ -3,6 +3,8 @@ layout: default
 title: Atelier 2 - Jeudi 19 juin 2025
 ---
 
+# Atelier 2 - Jeudi 19 juin 2025
+
 Travail de 3 allures différentes en descente. On enchaîne chaque allure et on
 remonte en marchant ou en footing très lent.
 
@@ -12,7 +14,7 @@ pentes plus raides et terrain trail accidenté, à intégrer dans une sortie lon
 trail.
 
 
-# Allure Contrôle
+## Allure Contrôle
 
 Objectif :
 
@@ -32,7 +34,7 @@ Conseils :
 - Peu de stress musculaire.
 - Bonne anticipation.
 
-# Allure Course
+## Allure Course
 
 Objectif :
 
@@ -52,7 +54,7 @@ Conseils :
 - Respiration contrôlée.
 - Stimulation musculaire modérée.
 
-# Allure Attaque
+## Allure Attaque
 
 
 Objectif :

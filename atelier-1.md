@@ -3,6 +3,8 @@ layout: default
 title: Atelier 1 - Jeudi 5 juin 2025
 ---
 
+# Atelier 1 - Jeudi 5 juin 2025
+
 Pour le premier atelier foulée, nous avons filmé les athlètes en course à 120
 images par seconde, à différentes vitesses et sous différents angles, afin
 d’essayer de déterminer leur type de foulée.
