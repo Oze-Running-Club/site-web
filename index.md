@@ -30,4 +30,4 @@ Ils durent en moyenne une heure et suivent la même structure:
 
 - [Guide type de foulee](./foulee.md)
 - [Renforcement musculaire selon le type de foulée](./renfo.md)
-
+- [Charte du groupe](./charte.md)
