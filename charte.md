@@ -3,14 +3,16 @@ layout: default
 title: Charte de bonne conduite 
 ---
 
-### Préambule
+# Charte de bonne conduite
+
+## Préambule
 
 Intégrer un groupe de course à pied, c’est rejoindre un collectif où règnent le
 **respect**, l’**écoute** et le **plaisir de progresser ensemble**.  Cette
 charte vise à rappeler les principes fondamentaux qui garantissent le bon
 déroulement des séances et le bien-être de chacun.
 
-L’adhésion à cette charte est un **engagement participantl** de chaque participant.
+L’adhésion à cette charte est un **engagement personnel** de chaque participant.
 
 ## 1. Respect et bienveillance
 
