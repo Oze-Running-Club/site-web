@@ -14,8 +14,10 @@ Ils durent en moyenne une heure et suivent la même structure:
 - corps de la séance
 - debrief
 
-Rejoignez-nous sur le [groupe WhatsApp](https://chat.whatsapp.com/CqsQ1hZJP9Y4jJtlEKDYco)
+Ces ateliers sont ouverts à toutes et à tous, quel que soit le niveau, à
+condition de pouvoir courir 45 minutes sans s’arrêter.
 
+Rejoignez-nous sur le [groupe WhatsApp](https://chat.whatsapp.com/CqsQ1hZJP9Y4jJtlEKDYco)
 
 ## Ateliers passés
 
