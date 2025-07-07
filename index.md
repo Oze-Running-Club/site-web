@@ -14,6 +14,8 @@ Ils durent en moyenne une heure et suivent la même structure:
 - corps de la séance
 - debrief
 
+Rejoignez-nous sur le [groupe WhatsApp](https://chat.whatsapp.com/CqsQ1hZJP9Y4jJtlEKDYco)
+
 
 ## Ateliers passés
 
