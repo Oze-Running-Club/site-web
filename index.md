@@ -20,14 +20,16 @@ Ils durent en moyenne une heure et suivent la même structure:
 - [Atelier 1 - Type de foulée](./atelier-1.md)
 - [Atelier 2 - Travail en descente](./atelier-2.md)
 - [Atelier 3 - Travail de la cadence](./atelier-3.md)
+- [Atelier 4 - Renforcement musculaire](./atelier-4.md)
 
 ## Ateliers à venir
 
-- [Atelier 4 - Renforcement musculaire](./atelier-4.md)
+- Atelier 5 - Entrainement au cardio
 
 
 ## Documents disponibles
 
 - [Guide type de foulee](./foulee.md)
 - [Renforcement musculaire selon le type de foulée](./renfo.md)
+- [Concevoir un plan d'entraînement de trail](./plan.md)
 - [Charte du groupe](./charte.md)

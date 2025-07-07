@@ -33,16 +33,12 @@ L’adhésion à cette charte est un **engagement personnel** de chaque particip
 - Je préserve un **cadre sécurisant** pour tous, en évitant les attitudes **agressives ou dominantes**.  
 - J'accepte les **remarques constructives** dans une logique de **progrès collectif**, et j’ose en formuler dans le **respect mutuel**.  
 
-## 4. Engagement envers le groupe
-
-- J'adhère aux **valeurs du groupe** et je m’engage à les faire vivre.  
-- Je m’implique, selon mes moyens, dans les **temps forts** de la vie du groupe (courses, événements, soutien logistique…).  
-- Je m’assure de **représenter le groupe avec fierté et intégrité** à l’extérieur.  
-
 ## Validation et suivi
 
-Chaque participant s’engage à **lire, signer et respecter** cette charte lors de son inscription.  
-En cas de non-respect, un **échange sera proposé** pour comprendre la situation et rappeler les valeurs communes.  
-En cas de **comportement répété ou grave**, des **mesures adaptées** pourront être prises par le comité du groupe.
+Chaque participant s’engage à **lire et respecter** cette charte lorsqu'il
+rejoint le groupe.  En cas de non-respect, un **échange sera proposé** pour
+comprendre la situation et rappeler les valeurs communes.  En cas de
+**comportement répété ou grave**, des **mesures adaptées** pourront être prises
+par le comité du groupe.
 
 > *“Courir ensemble, c’est aller plus loin – dans le respect, le partage et l’envie de progresser.”*
