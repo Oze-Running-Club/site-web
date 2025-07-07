@@ -24,18 +24,17 @@ Il est conçu comme une **séance complète et progressive**, avec :
 
 ## Déroulé de la séance
 
-### Échauffement (10 min)
+### Échauffement (5 min)
 
 Préparation articulaire, cardio léger, réveil neuromusculaire.
 
 - 1 min corde à sauter simulée (sans corde)
-- 2 min montées de genoux dynamiques
-- 2 min marche rapide + talons-fesses
+- 1 min montées de genoux dynamiques
+- 1 min talons-fesses
 - 1 min jumping jacks
-- 2 min skipping léger
-- 2 min squats dynamiques avec impulsion
+- 1 min skipping léger
 
-### Bloc 1 – Explosivité & Appuis dynamiques (10 min)
+### Bloc 1 – Explosivité & Appuis dynamiques 
 
 Travail pliométrique et coordination des membres inférieurs.
 
@@ -45,17 +44,17 @@ Travail pliométrique et coordination des membres inférieurs.
 
 Faire **2 tours** avec 30 sec de récupération entre chaque exercice.
 
-### Bloc 2 – Gainage & Endurance musculaire (10 min)
+### Bloc 2 – Gainage & Endurance musculaire 
 
 Posture, maintien, engagement du tronc et des jambes.
 
-- Chaise murale (contre un mur) – 45 sec
-- Planche bras tendus – 45 sec
-- Planche dynamique (touches épaules) – 45 sec  
+- Chaise murale – 45 sec
+- Planche bras tendus – 45 sec à 1mn
+- Planche dynamique (touches épaules) – 25 touchés  
 
 Faire **2 tours** avec 30 sec de récupération entre chaque exercice.
 
-### Bloc 3 – Proprioception & Stabilité (10 min)
+### Bloc 3 – Proprioception & Stabilité 
 
 Ancrage réflexe, équilibre et adaptation à l’instabilité.
 
@@ -65,7 +64,7 @@ Ancrage réflexe, équilibre et adaptation à l’instabilité.
 
 Faire **2 tours** avec 30 sec de récupération entre chaque exercice.
 
-### Bloc 4 – Chaîne postérieure & Pieds (10 min)
+### Bloc 4 – Chaîne postérieure & Pieds
 
 Renforcement ciblé des fessiers, mollets et appuis au sol.
 
@@ -75,13 +74,11 @@ Renforcement ciblé des fessiers, mollets et appuis au sol.
 
 Faire **2 tours** avec 30 sec de récupération entre chaque exercice.
 
-### Retour au calme & étirements (10 min)
+### Retour au calme & étirements 
 
 - Étirement mollets (1 min/jambe)
 - Étirement ischios & fessiers au sol
 - Mobilité hanches : cercles lents
-- Respiration lente allongée (2 min)
-- Automassage plantaire avec les mains (ou balle si dispo)
 
 ## Conseils techniques
 
