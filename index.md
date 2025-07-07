@@ -24,7 +24,7 @@ Ils durent en moyenne une heure et suivent la même structure:
 
 ## Ateliers à venir
 
-- Atelier 5 - Entrainement au cardio
+- [Atelier 5 - Entrainement au cardio](./atelier-5.md)
 
 
 ## Documents disponibles
