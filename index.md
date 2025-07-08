@@ -3,9 +3,6 @@ layout: default
 title: Oze Running Club
 ---
 
-# Oze Running Club
-
-
 Groupe de course à pied. Rejoignez-nous sur le [groupe WhatsApp](https://chat.whatsapp.com/CqsQ1hZJP9Y4jJtlEKDYco)
 
 
