@@ -1,11 +1,17 @@
 ---
 layout: default
-title: Ateliers de foulee du Jeudi
+title: Oze Running Club
 ---
 
-# Bienvenue sur le site des ateliers du Jeudi.
+# Oze Running Club
 
-Les ateliers du Jeudi sont des séances techniques pour s'améliorer dans sa
+
+Groupe de course à pied. Rejoignez-nous sur le [groupe WhatsApp](https://chat.whatsapp.com/CqsQ1hZJP9Y4jJtlEKDYco)
+
+
+## Ateliers du Jeudi.
+
+Les Ateliers du Jeudi sont des séances techniques pour s'améliorer dans sa
 pratique de la course à pied.
 
 Ils durent en moyenne une heure et suivent la même structure:
@@ -17,21 +23,20 @@ Ils durent en moyenne une heure et suivent la même structure:
 Ces ateliers sont ouverts à toutes et à tous, quel que soit le niveau, à
 condition de pouvoir courir 45 minutes sans s’arrêter.
 
-Rejoignez-nous sur le [groupe WhatsApp](https://chat.whatsapp.com/CqsQ1hZJP9Y4jJtlEKDYco)
 
-## Ateliers passés
+### Ateliers passés
 
 - [Atelier 1 - Type de foulée](./atelier-1.md)
 - [Atelier 2 - Travail en descente](./atelier-2.md)
 - [Atelier 3 - Travail de la cadence](./atelier-3.md)
 - [Atelier 4 - Renforcement musculaire](./atelier-4.md)
 
-## Ateliers à venir
+### Ateliers à venir
 
 - [Atelier 5 - Entrainement au cardio](./atelier-5.md)
 
 
-## Documents disponibles
+### Documents disponibles
 
 - [Guide type de foulee](./foulee.md)
 - [Renforcement musculaire selon le type de foulée](./renfo.md)
