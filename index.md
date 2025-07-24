@@ -27,14 +27,15 @@ condition de pouvoir courir 45 minutes sans s’arrêter.
 - [Atelier 2 - Travail en descente](./atelier-2.md)
 - [Atelier 3 - Travail de la cadence](./atelier-3.md)
 - [Atelier 4 - Renforcement musculaire](./atelier-4.md)
+- [Atelier 5 - Entrainement au cardio](./atelier-5.md)
 
 ### Ateliers à venir
 
-- [Atelier 5 - Entrainement au cardio](./atelier-5.md)
-
+- TBD
 
 ### Documents disponibles
 
+- [Calcul des zones FC](https://docs.google.com/spreadsheets/d/1y34YMD3S6qOUceRGMCklA3yDEICiS4lCZmPVNkGBhrk)
 - [Guide type de foulee](./foulee.md)
 - [Renforcement musculaire selon le type de foulée](./renfo.md)
 - [Concevoir un plan d'entraînement de trail](./plan.md)
