@@ -95,7 +95,7 @@ Les sorties du dimanche sont des **sorties longues**, souvent en nature ou sur
 sentiers (trail).  Elles permettent de travailler l’endurance, la régularité, et
 de prendre du plaisir à courir en groupe.
 
-Elles se déroulent le matin, autour de 10h, et durent entre **1h15 et 2h** selon
+Elles se déroulent le matin, autour de 10h, et durent entre **1h15 et 3h** selon
 les parcours.
 
 Le format est volontairement **souple** et **convivial** :
