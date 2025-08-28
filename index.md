@@ -115,6 +115,7 @@ profitant de la nature et de l’énergie du groupe.
 - [Atelier 3 - Travail de la cadence](./atelier-3.md)
 - [Atelier 4 - Renforcement musculaire](./atelier-4.md)
 - [Atelier 5 - Entrainement au cardio](./atelier-5.md)
+- [Atelier 6 - Circuit travail foulee et renfo](./atelier-6.md)
 
 ## Documents disponibles
 
