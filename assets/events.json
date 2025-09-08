@@ -58,5 +58,35 @@
     "end": "2025-09-06T13:30:00",
     "location": "Terrain communal de Blaisy-Bas",
     "chaussures": "N/A"
+  },
+  {
+    "id": "7",
+    "calendarId": "1",
+    "title": "Fractionné Court",
+    "category": "time",
+    "start": "2025-09-09T18:30:00",
+    "end": "2025-09-09T19:30:00",
+    "location": "Terrain communal de Blaisy-Bas",
+    "chaussures": "Trail légères"
+  },
+  {
+    "id": "8",
+    "calendarId": "1",
+    "title": "Atelier renfo",
+    "category": "time",
+    "start": "2025-09-11T18:30:00",
+    "end": "2025-09-11T19:30:00",
+    "location": "Terrain communal de Blaisy-Bas",
+    "chaussures": "Route légères"
+  },
+  {
+    "id": "9",
+    "calendarId": "1",
+    "title": "Sortie Trail",
+    "category": "time",
+    "start": "2025-09-14T10:00:00",
+    "end": "2025-09-14T12:00:00",
+    "location": "Lieu à définir",
+    "chaussures": "Trail"
   }
 ]
