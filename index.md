@@ -5,7 +5,9 @@ title: Oze Running Club
 
 Groupe de course à pied. Rejoignez-nous sur le [groupe WhatsApp](https://chat.whatsapp.com/CqsQ1hZJP9Y4jJtlEKDYco)
 
-Ce groupe est ouvert à toutes et à tous, quel que soit le niveau.
+Informations : info@oze-running.club
+
+Ce groupe est ouvert à toutes et à tous les adultes, quel que soit le niveau.
 
 ## Prochains Événements
 
