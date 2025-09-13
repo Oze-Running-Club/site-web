@@ -1,9 +1,9 @@
 ---
-layout: default
-title: Atelier 3 - Jeudi 26 juin 2025
+layout: post
+date: 2025-06-26
 ---
 
-# Atelier 3 - Jeudi 26 juin 2025
+# Atelier 3 
 
 Lors de ce troisième atelier, nous allons explorer le **travail de cadence** à
 l’aide d’un **métronome**, dans deux contextes distincts : sur le plat, puis en

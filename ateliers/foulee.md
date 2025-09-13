@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Analyse des types de foulée
 ---
 
 

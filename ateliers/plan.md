@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Concevoir un plan d'entraînement de trail
 ---
 
 # Guide : Concevoir un plan d'entraînement de trail

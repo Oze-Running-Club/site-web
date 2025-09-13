@@ -6,6 +6,8 @@ gem "logger"
 gem "base64"
 gem "bigdecimal"
 
+gem "minima"
+
 # Common Jekyll plugins
 gem "jekyll-seo-tag"
 gem "jekyll-sitemap"

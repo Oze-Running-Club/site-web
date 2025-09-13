@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Atelier 6 - Circuit cadence, pliométrie et renfo - Jeudi 28 juillet 2025
 ---
 
 # Atelier 6 - Circuit 5' x 3 - Jeudi 28 juillet 2025

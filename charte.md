@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Charte de bonne conduite 
 ---
 
 # Charte de bonne conduite

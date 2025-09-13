@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Séances Renforcement Musculaire Sans Matériel
 ---
 
 # Séances de Renforcement Musculaire – Sans Matériel

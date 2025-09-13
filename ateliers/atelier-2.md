@@ -1,9 +1,9 @@
 ---
-layout: default
-title: Atelier 2 - Jeudi 19 juin 2025
+layout: post
+date: 2025-06-19
 ---
 
-# Atelier 2 - Jeudi 19 juin 2025
+# Atelier 2 
 
 Travail de 3 allures différentes en descente. On enchaîne chaque allure et on
 remonte en marchant ou en footing très lent.

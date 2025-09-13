@@ -1,15 +1,10 @@
 ---
-layout: default
-title: Oze Running Club
+layout: home
 ---
 
-Groupe de course à pied. Rejoignez-nous sur le [groupe WhatsApp](https://chat.whatsapp.com/CqsQ1hZJP9Y4jJtlEKDYco)
+Association de course à pied. L'adhésion est ouverte à toutes et à tous les adultes, quel que soit le niveau.
 
-Informations : info@oze-running.club
-
-Ce groupe est ouvert à toutes et à tous les adultes, quel que soit le niveau.
-
-## Prochains Événements
+# Prochains Événements
 
 <ul id="event-list" class="event-list"></ul>
 
@@ -60,7 +55,11 @@ Ce groupe est ouvert à toutes et à tous les adultes, quel que soit le niveau.
 </script>
 
 
-## Séances du Mardi
+# Activités du Club
+
+Nous proposons 3 séances par semaine.
+
+## Mardi 18h30/19h30
 
 Les séances du mardi sont centrées sur le **travail de la vitesse et du fractionné**.  
 Elles ont lieu généralement en fin de journée, autour de 18h30, et durent environ une heure.
@@ -79,7 +78,7 @@ Ces séances peuvent être exigeantes, mais sont adaptées à tous les niveaux :
 chacun·e peut ajuster les répétitions ou les allures selon ses capacités.
 
 
-## Séances du Jeudi.
+## Jeudi 18h30/19h30
 
 Les Ateliers du Jeudi sont des séances techniques pour s'améliorer dans sa
 pratique de la course à pied.
@@ -109,20 +108,3 @@ Le format est volontairement **souple** et **convivial** :
 C’est une excellente séance pour développer sa **base aérobie** tout en
 profitant de la nature et de l’énergie du groupe.
 
-
-## Ateliers passés
-
-- [Atelier 1 - Type de foulée](./atelier-1.md)
-- [Atelier 2 - Travail en descente](./atelier-2.md)
-- [Atelier 3 - Travail de la cadence](./atelier-3.md)
-- [Atelier 4 - Renforcement musculaire](./atelier-4.md)
-- [Atelier 5 - Entrainement au cardio](./atelier-5.md)
-- [Atelier 6 - Circuit travail foulee et renfo](./atelier-6.md)
-
-## Documents disponibles
-
-- [Calcul des zones FC](https://docs.google.com/spreadsheets/d/1y34YMD3S6qOUceRGMCklA3yDEICiS4lCZmPVNkGBhrk)
-- [Guide type de foulee](./foulee.md)
-- [Renforcement musculaire selon le type de foulée](./renfo.md)
-- [Concevoir un plan d'entraînement de trail](./plan.md)
-- [Charte du groupe](./charte.md)

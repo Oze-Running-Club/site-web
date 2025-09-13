@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Atelier 5 - Endurance fondamentale & travail cardio - Jeudi 17 juillet 2025
 ---
 
 # Atelier 5 - Endurance fondamentale & travail cardio - Jeudi 17 juillet 2025

@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Atelier 4 - Renforcement global sans matériel - Jeudi 3 juillet 2025
 ---
 
 # Atelier 4 - Renforcement global sans matériel - Jeudi 3 juillet 2025
