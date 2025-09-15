@@ -77,3 +77,29 @@ button.prev, button.next {
 }
 button.prev { left: 10px; }
 button.next { right: 10px; }
+
+.routes-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1.5rem;
+  align-items: start;
+}
+.route-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 1rem;
+  background: #fff;
+}
+.route-card h2 {
+  margin: 0 0 .25rem 0;
+  font-size: 1.125rem;
+}
+.route-card p {
+  margin: 0 0 .75rem 0;
+}
+.route-meta {
+  font-size: .9rem;
+}
+.route-meta a {
+  text-decoration: none;
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Baulme-La-Roche",
+    "description": "Une sortie avec des vues magnifiques des falaise, un passage technique au dessus de Malin et un finish en montée.",
+    "embedId": "3398966817552287068",
+    "mapHash": "11.64/47.3454/4.7826",
+    "clubId": "1693409",
+    "style": "standard",
+    "fullWidth": true
+  },
+  {
+    "title": "Autour de l'Oze",
+    "description": "Passage dans les trois villages autour de notre vallée",
+    "embedId": "3372550491872746818",
+    "mapHash": "11.44/47.3908/4.7333",
+    "clubId": "1693409",
+    "style": "standard",
+    "fullWidth": true
+  }
+]
