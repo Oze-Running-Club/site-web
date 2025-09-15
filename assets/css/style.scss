@@ -3,25 +3,22 @@
 
 @import "minima";
 
-  .event-list {
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-    margin-top: 1rem;
+.event-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-top: 1rem;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
 
-    /* Fix right indentation */
-    margin-left: 0;
-    margin-right: 0;
-    padding-left: 0;
-    padding-right: 0;
-  }
-
-  /* Optional: reset inherited list styles from older HTML */
-  .event-list li {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }
+.event-list li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
 
 .event-entry {
   border: 1px solid #ccc;
@@ -49,3 +46,34 @@
   color: #2563eb;
 }
 
+.carousel {
+  position: relative;
+  margin: auto;
+  overflow: hidden;
+  border-radius: 10px;
+  padding-bottom: 25px;
+}
+
+.carousel-inner {
+  display: flex;
+  transition: transform 0.5s ease;
+}
+.carousel-item {
+  min-width: 100%;
+}
+.carousel img {
+  width: 100%;
+  display: block;
+}
+button.prev, button.next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(0,0,0,0.5);
+  border: none;
+  color: white;
+  padding: 10px;
+  cursor: pointer;
+}
+button.prev { left: 10px; }
+button.next { right: 10px; }

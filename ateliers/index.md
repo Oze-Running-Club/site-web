@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: Ateliers
+permalink: /ateliers
 ---
 
 

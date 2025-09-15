@@ -10,5 +10,7 @@
     {%- include google-analytics.html -%}
   {%- endif -%}
 
-  
+  {%-if page.url == "/" -%}
+  <script src="{{ "/assets/js/index.js" | relative_url }}"></script>
+  {%-endif-%}
 </head>
