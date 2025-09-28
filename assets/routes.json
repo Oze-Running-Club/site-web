@@ -16,5 +16,23 @@
     "clubId": "1693409",
     "style": "standard",
     "fullWidth": true
+  },
+  {
+    "title": "Autour de Verrey - Pt 1",
+    "description": "Superbe parcours ludique et technique dans les sous-bois",
+    "embedId": "3404390119960104902",    
+    "mapHash": "12.45/47.44017/4.65603",
+    "clubId": "1693409",
+    "style": "standard",
+    "fullWidth": true
+  },
+  {
+    "title": "Autour de Verrey - Pt 2",
+    "description": "Trail forestier, avec une belle montée au début",
+    "embedId": "3404392086501748004",    
+    "mapHash": "12.07/47.45286/4.68027",
+    "clubId": "1693409",
+    "style": "standard",
+    "fullWidth": true
   }
 ]
