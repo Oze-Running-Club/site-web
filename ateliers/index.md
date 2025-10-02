@@ -13,6 +13,7 @@ permalink: /ateliers
 - [Atelier 4 - Renforcement musculaire](/ateliers/atelier-4.html)
 - [Atelier 5 - Entrainement au cardio](/ateliers/atelier-5.html)
 - [Atelier 6 - Circuit travail foulee et renfo](/ateliers/atelier-6.html)
+- [Atelier 7 - Circuit Renforcement musculaire](/ateliers/atelier-7.html) 
 
 # Documents disponibles
 
