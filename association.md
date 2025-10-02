@@ -28,6 +28,11 @@ Formulaire d'adhésion:
 - [Version PDF à imprimer](/assets/docs/bulletin-2025-2026.pdf)
 - [Formulaire en ligne](https://forms.gle/D2bt7pkDqVy9WnqH7)
 
+Questionnaire médical:
+
+- [Personne Majeure](/assets/docs/Questionnaire-de-Sante-Majeur-FNSMR-2023.pdf)
+- [Personne Mineure](/assets/docs/Questionnaire-Attestation-sante-mineur-FNSMR.pdf)
+
 Documents à lire:
 
 - [Règlement 2025-2026](/reglement/)
