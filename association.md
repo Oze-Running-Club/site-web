@@ -16,21 +16,23 @@ atmosphère conviviale.
 
 Rejoignez-nous!
 
-[Bulletin d'adhésion 2025-2026](/assets/docs/bulletin-2025-2026.pdf)
+Formulaire d'adhésion:
 
-Formulaire également disponible en ligne: [Forumlaire](https://forms.gle/D2bt7pkDqVy9WnqH7)
+- [Version PDF à imprimer](/assets/docs/bulletin-2025-2026.pdf)
+- [Formulaire en ligne](https://forms.gle/D2bt7pkDqVy9WnqH7)
 
+Documents à lire:
 
-[Règlement 2025-2026](/reglement/)
-[Charte de conduite 2025-2026](/charte/)
+- [Règlement 2025-2026](/reglement/)
+- [Charte de bonne conduite 2025-2026](/charte/)
 
 
 Adresse postale:
 
-Association Oze Running Club
-Mairie de Blaisy-Bas
-Rue du Presbytère
-21540 Blaisy-Bas
+  Association Oze Running Club
+  Mairie de Blaisy-Bas
+  Rue du Presbytère
+  21540 Blaisy-Bas
 
 Email: [info@oze-running.club](mailto:info@oze-running.club)
 
