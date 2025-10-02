@@ -21,4 +21,3 @@ permalink: /ateliers
 - [Guide type de foulee](/ateliers/foulee.html)
 - [Renforcement musculaire selon le type de foulée](/ateliers/renfo.html)
 - [Concevoir un plan d'entraînement de trail](/ateliers/plan.html)
-- [Charte du groupe](./charte.html)

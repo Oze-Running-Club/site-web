@@ -23,7 +23,7 @@ layout: default
 - Sauts dans les cerceaux (3-4 cerceaux espacés au sol)
 - Fentes sautées alternées (8/8)
 - Mini-haies : franchissements ou sauts latéraux
-- Sauts verticaux contrôlés (réception souple)
+- 10 Sauts verticaux contrôlés (réception souple)
 
 **2 tours – 45 s entre tours**
 
