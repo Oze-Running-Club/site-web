@@ -4,9 +4,8 @@ title: Association
 permalink: /association/
 ---
 
-<div style="max-width:200px;">
-  ![Association Oze Running Club](/assets/img/logo.png)
-</div>
+
+<img src="/assets/img/logo.png" alt="Association Oze Running Club" class="logo-small">
 
 
 L’association Oze Running Club est affiliée à la [Fédération Nationale du Sport en Milieu Rural (FNSMR)](https://www.fnsmr.org/).
