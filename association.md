@@ -14,3 +14,14 @@ Oze Running Club (ORC) a pour objectif de promouvoir la pratique régulière et 
 (route, trail, renforcement musculaire) à Blaisy-Bas et aux alentours, dans une
 atmosphère conviviale.
 
+Rejoignez-nous!
+
+[Bulletin d'adhésion 2025-2026](/assets/docs/bulletin-2025-2026.pdf)
+
+Formulaire également disponible en ligne: [Forumlaire Forms])(https://forms.gle/D2bt7pkDqVy9WnqH7)
+
+
+[Règlement 2025-2026](/reglement/)
+[Charte de conduite 2025-2026](/charte/)
+
+
