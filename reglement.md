@@ -47,7 +47,7 @@ L’association propose, sur demande, un accompagnement personnalisé (plans d�
 Ces services sont proposés bénévolement et ne se substituent pas à un suivi médical ou professionnel spécialisé.  
 
 ## Article 7 – Cotisation et remboursement
-- La cotisation annuelle est fixée à **20 €**, licence FNSMR incluse.  
+- La cotisation annuelle est fixée à **20 €**, assurance incluse.  
 - Elle est valable pour la saison sportive (du 1er octobre au 30 septembre).  
 - Aucun remboursement ne sera effectué, sauf cas exceptionnel décidé par le Bureau.  
 - La cotisation démarre le 1er octobre de chaque année.  
