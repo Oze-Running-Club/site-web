@@ -8,15 +8,6 @@ permalink: /association/
 <img src="/assets/img/logo.png" alt="Association Oze Running Club" class="logo-small">
 
 
-L’association Oze Running Club est affiliée à la [Fédération Nationale du Sport en Milieu Rural (FNSMR)](https://www.fnsmr.org/).
-
-La FNSMR est une fédération multisports qui a pour mission d’animer et de
-développer le milieu rural par le biais de la pratique sportive de loisir
-accessible à tous.
-
-Vous pouvez devenir licencié de la FNSRM tout en étant dans d'autres fédérations
-comme la FFA.
-
 Oze Running Club (ORC) a pour objectif de promouvoir la pratique régulière et
 encadrée de la course à pied (route, trail, renforcement musculaire) à
 Blaisy-Bas et aux alentours, dans une atmosphère conviviale.
@@ -30,8 +21,8 @@ Formulaire d'adhésion:
 
 Questionnaire médical:
 
-- [Personne Majeure](/assets/docs/Questionnaire-de-Sante-Majeur-FNSMR-2023.pdf)
-- [Personne Mineure](/assets/docs/Questionnaire-Attestation-sante-mineur-FNSMR.pdf)
+- [Personne Majeure](/assets/docs/questionnaire_sante_majeur.pdf)
+- [Personne Mineure](/assets/docs/questionnaire_sante_mineur.pdf)
 
 Documents à lire:
 
