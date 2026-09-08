@@ -16,7 +16,6 @@ Rejoignez-nous!
 
 Formulaire d'adhésion:
 
-- [Version PDF à imprimer](/assets/docs/bulletin-2025-2026.pdf)
 - [Formulaire en ligne](https://forms.gle/D2bt7pkDqVy9WnqH7)
 
 Questionnaire médical:
@@ -26,8 +25,8 @@ Questionnaire médical:
 
 Documents à lire:
 
-- [Règlement 2025-2026](/reglement/)
-- [Charte de bonne conduite 2025-2026](/charte/)
+- [Règlement](/reglement/)
+- [Charte de bonne conduite](/charte/)
 
 
 Séance d'essai (2 maximum):

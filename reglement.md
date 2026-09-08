@@ -12,7 +12,7 @@ Il s’impose à tous les membres de l’association.
 L’association propose trois rendez-vous hebdomadaires :
 
 - **Mardi (18h30 – 19h30)** : séance de fractionné (vitesse, endurance active, technique de course).  
-- **Jeudi (18h30 – 19h30)** : sortie trail en été / renforcement musculaire en salle en hiver.  
+- **Jeudi (18h45 – 20h00)** : sortie trail en été / renforcement musculaire en salle en hiver.  
 - **Dimanche (9h ou 10h – 12h)** : sortie longue (1h à 3h), allure libre ou structurée.  
 
 Les contenus peuvent être adaptés par les encadrants bénévoles en fonction des conditions météo, des niveaux présents et des objectifs collectifs.  

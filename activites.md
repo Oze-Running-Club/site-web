@@ -25,14 +25,14 @@ Ces séances peuvent être exigeantes, mais sont adaptées à tous les niveaux :
 chacun·e peut ajuster les répétitions ou les allures selon ses capacités.
 
 
-## Jeudi 18h30/19h45 - Terrain Communal de Blaisy-Bas ou en Salle 
+## Jeudi 18h45/20h00 - École de Blaisy-Bas
 
 Les Ateliers du Jeudi sont des séances techniques pour s'améliorer dans sa pratique de la course à pied.
 Il s'agit de renforcement musculaire ou travail de cadence.
 
-Ils durent en moyenne une heure et suivent la même structure:
+Ils durent une heure et quart et suivent la même structure:
 
-- 10 à 15 minutes d'échauffement 
+- Échauffement de 18h45 à 19h
 - corps de la séance
 - debrief
 
