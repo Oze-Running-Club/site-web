@@ -128,5 +128,15 @@
     "end": "2025-09-21T12:00:00",
     "location": "Arret de bus de Bordes-Bricard",
     "chaussures": "Trail"
+  },
+  {
+    "id": "14",
+    "calendarId": "1",
+    "title": "Les 50K de Zaza et Tarek",
+    "category": "time",
+    "start": "2026-10-24T06:00:00",
+    "end": "2026-10-24T14:00:00",
+    "location": "Canal, Sainte-Marie sur Ouche",
+    "chaussures": "Route"
   }
 ]
