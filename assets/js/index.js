@@ -53,8 +53,17 @@ document.addEventListener('DOMContentLoaded', () => {
               📍 ${event.location || "Lieu non précisé"}<br/>
               👟 Chaussures recommandées : ${event.chaussures || "non spécifiées"}
             </div>
-            ${event.raw?.link ? `<a class="event-link" href="${event.raw.link}" target="_blank">🔗 Lien vers l'événement</a>` : ""}
           `;
+
+        // Use a relative path for an internal page or a full URL for an external site.
+        const eventLink = event.link || event.raw?.link;
+        if (eventLink) {
+          const link = document.createElement('a');
+          link.className = 'event-link';
+          link.href = eventLink;
+          link.textContent = "🔗 En savoir plus sur l'événement";
+          container.appendChild(link);
+        }
 
         list.appendChild(container);
       });
@@ -64,4 +73,3 @@ document.addEventListener('DOMContentLoaded', () => {
       document.getElementById('event-list').innerHTML = "<p>Erreur lors du chargement des événements.</p>";
     });
 });
-
