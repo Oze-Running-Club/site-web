@@ -29,10 +29,6 @@ Documents à lire:
 - [Charte de bonne conduite](/charte/)
 
 
-Séance d'essai (2 maximum):
-
-- [Assurance à remplir au préalable](https://docs.google.com/forms/d/e/1FAIpQLSeleK53E0g3b6uD1UVh0iq7VA1OLHXLEehkz_I8FRrkkRa_4g/viewform)
-
 Adresse postale:
 
   Association Oze Running Club
