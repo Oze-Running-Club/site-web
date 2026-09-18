@@ -18,7 +18,7 @@ Formulaire d'adhésion:
 
 - [Formulaire en ligne](https://forms.gle/D2bt7pkDqVy9WnqH7)
 
-Questionnaire médical:
+Questionnaire médical - ce questionnaire est à remplir et à garder por vous, l'association ne le conserve pas et vous demande juste d'indiquer sur le formulaire d'adhésion que vous l'avez bien rempli :
 
 - [Personne Majeure](/assets/docs/questionnaire_sante_majeur.pdf)
 - [Personne Mineure](/assets/docs/questionnaire_sante_mineur.pdf)
