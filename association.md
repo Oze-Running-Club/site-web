@@ -31,10 +31,12 @@ Documents à lire:
 
 Adresse postale:
 
-  Association Oze Running Club
-  Mairie de Blaisy-Bas
-  Rue du Presbytère
-  21540 Blaisy-Bas
+```
+Association Oze Running Club
+Mairie de Blaisy-Bas
+Rue du Presbytère
+21540 Blaisy-Bas
+```
 
 Email: [info@oze-running.club](mailto:info@oze-running.club)
 
