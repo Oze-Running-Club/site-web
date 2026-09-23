@@ -36,6 +36,9 @@ Ils durent une heure et quart et suivent la même structure:
 - corps de la séance
 - debrief
 
+Notez que le Foyer Rural propose également une séance de renforcement les Lundi soir qui n'est pas orienté course à pied. 
+Une séance dynamique d'une heure ou l'on travaille chaque zone du corps.
+
 
 ## Sorties du Dimanche
 
