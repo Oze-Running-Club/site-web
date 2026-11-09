@@ -12,6 +12,11 @@ Vous êtes une entreprise, un commerce ou un artisan de la région et vous souha
 
 Pour la saison à venir, nous allons équiper nos membres d'environ **40 vestes aux couleurs du club**, portées à l'entraînement et sur les trails.
 
+<figure>
+  <img src="/assets/img/news/veste-oze.jpeg" alt="Prototype de la veste de l'Oze Running Club, avec l'emplacement du logo du sponsor" style="width: 100%; height: auto;">
+  <figcaption><em>Prototype de la veste du club : votre logo sur la poitrine, à côté de celui de l'ORC.</em></figcaption>
+</figure>
+
 Nous recherchons un **sponsor premium** pour financer ce projet à hauteur de **3 000 € HT** (avec facture). En échange :
 
 - votre logo sur les ~40 vestes du club, visible sur tous les trails et courses où nous allons ;
