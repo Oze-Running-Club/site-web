@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Devenez sponsor de l'Oze Running Club !"
+date: 2026-11-09
+---
+
+L'Oze Running Club est une association de course à pied basée à Blaisy-Bas. Nos coureuses et coureurs s'entraînent chaque semaine et participent à de nombreux trails et courses en Bourgogne et au-delà.
+
+Vous êtes une entreprise, un commerce ou un artisan de la région et vous souhaitez soutenir le sport local ? **Devenez sponsor ou mécène du club !** Votre soutien nous aide à équiper nos membres, à organiser nos événements et à faire vivre le club. En retour, nous vous mettons en avant sur notre site ([page Sponsors](/sponsors/)), sur nos réseaux et lors de nos événements.
+
+## Sponsor premium : les vestes du club
+
+Pour la saison à venir, nous allons équiper nos membres d'environ **40 vestes aux couleurs du club**, portées à l'entraînement et sur les trails.
+
+Nous recherchons un **sponsor premium** pour financer ce projet à hauteur de **3 000 € HT** (avec facture). En échange :
+
+- votre logo sur les ~40 vestes du club, visible sur tous les trails et courses où nous allons ;
+- une mise en avant en tête de notre [page Sponsors](/sponsors/), avec un lien vers votre site ;
+- des remerciements sur nos réseaux et lors de nos événements.
+
+C'est un projet unique, sans partenariat à long terme, mais avec une grosse visibilité sur les trails de la région.
+
+Pour devenir sponsor ou mécène, ou pour en savoir plus, écrivez-nous à <a href="mailto:info@oze-running.club">info@oze-running.club</a>.
+
+Sportivement,<br>
+L'équipe de l'Oze Running Club

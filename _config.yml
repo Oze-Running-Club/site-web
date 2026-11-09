@@ -11,3 +11,6 @@ header_pages:
   - association.md
   - sponsors.md
   - contact.md
+
+minima:
+  date_format: "%d/%m/%Y"

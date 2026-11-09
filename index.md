@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 Oze Running Club (ORC) est une association loi 1901, qui a pour objectif de promouvoir la pratique régulière et
@@ -27,6 +27,16 @@ L'association est ouverte à toutes et à tous les adultes, quel que soit le niv
   <button class="next">›</button>
 </div>
 
+
+# Actualités
+<ul class="post-list">
+{%- for post in site.posts limit:5 %}
+  <li>
+    <span class="post-meta">{{ post.date | date: "%d/%m/%Y" }}</span>
+    <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+  </li>
+{%- endfor %}
+</ul>
 
 # Prochains Événements
 <ul id="event-list" class="event-list"></ul>
