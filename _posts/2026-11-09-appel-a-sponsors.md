@@ -8,6 +8,13 @@ L'Oze Running Club est une association de course à pied basée à Blaisy-Bas. N
 
 Vous êtes une entreprise, un commerce ou un artisan de la région et vous souhaitez soutenir le sport local ? **Devenez sponsor ou mécène du club !** Votre soutien nous aide à équiper nos membres, à organiser nos événements et à faire vivre le club. En retour, nous vous mettons en avant sur notre site ([page Sponsors](/sponsors/)), sur nos réseaux et lors de nos événements.
 
+## Sponsor Foulée : 200 € pour un an
+
+Pour **200 €**, devenez **Sponsor Foulée** du club pendant **un an** :
+
+- votre logo et un lien vers votre site sur notre [page Sponsors](/sponsors/) pendant un an ;
+- un lien vers votre site dans nos publications sur les réseaux sociaux.
+
 ## Sponsor premium : les vestes du club
 
 Pour la saison à venir, nous allons équiper nos membres d'environ **40 vestes aux couleurs du club**, portées à l'entraînement et sur les trails.
