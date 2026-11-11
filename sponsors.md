@@ -49,12 +49,12 @@ description: "Les sponsors et mécènes qui soutiennent Oze Running Club, associ
 
   <div class="tax-note">
     <h3>Un avantage fiscal possible</h3>
-    <p>Sous réserve de l'éligibilité de l'association et du respect des conditions prévues à l'article 238 bis du Code général des impôts, les dons des entreprises peuvent ouvrir droit à une réduction d'impôt de 60 %, dans les limites légales.</p>
+    <p>Dans le cadre de l'article 238 bis du Code général des impôts, les dons des entreprises peuvent ouvrir droit à une réduction d'impôt de 60 %, dans les limites légales.</p>
     <ul>
       <li>Don de 200 € : réduction d'impôt potentielle de 120 €.</li>
       <li>Don de 500 € : réduction d'impôt potentielle de 300 €.</li>
     </ul>
-    <p>Ces simulations supposent que l'entreprise puisse effectivement utiliser la réduction d'impôt. Oze Running Club procède actuellement à la vérification de son éligibilité au mécénat : la délivrance d'un reçu fiscal n'est donc pas garantie à ce stade.</p>
+    <p>Ces simulations supposent que l'entreprise puisse effectivement utiliser la réduction d'impôt. Le reçu fiscal vous est adressé dans un second temps, après la réception de votre don.</p>
   </div>
 
   <p><a class="btn btn--mecenat" href="mailto:info@oze-running.club?subject=Soutenir%20Oze%20Running%20Club%20%E2%80%93%20M%C3%A9c%C3%A9nat">Devenir mécène</a></p>

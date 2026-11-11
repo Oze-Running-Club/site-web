@@ -70,9 +70,9 @@ Le mécénat n'est pas une prestation : il ne donne pas lieu à une facture ni �
 <div class="tax-note" markdown="1">
 <h3>Un avantage fiscal possible pour votre entreprise</h3>
 
-Le mécénat d'entreprise peut ouvrir droit à une réduction d'impôt de 60 % du montant du don, dans les limites légales, si l'association et le don remplissent les conditions fiscales requises (article 238 bis du Code général des impôts).
+Le mécénat d'entreprise peut ouvrir droit à une réduction d'impôt de 60 % du montant du don, dans les limites légales (article 238 bis du Code général des impôts).
 
-Oze Running Club procède actuellement à la vérification de son éligibilité au mécénat. La délivrance d'un reçu fiscal n'est donc pas garantie à ce stade.
+Vous pouvez faire votre don dès maintenant : le reçu fiscal vous est adressé dans un second temps.
 </div>
 
 <p><a class="btn btn--mecenat" href="mailto:info@oze-running.club?subject=Demande%20de%20m%C3%A9c%C3%A9nat%20-%20Oze%20Running%20Club">Je souhaite soutenir Oze Running Club</a></p>
