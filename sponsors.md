@@ -14,15 +14,7 @@ description: "Les sponsors et mécènes qui soutiennent Oze Running Club, associ
   <h2 id="nos-sponsors">Nos sponsors</h2>
   <p>Nos sponsors soutiennent le club dans le cadre de partenariats publicitaires : en échange de leur participation, facturée, le club leur offre de la visibilité.</p>
 
-  <div class="sponsor">
-    <a href="https://www.entreprise-freitas-maconnerie.fr/" target="_blank" rel="noopener">
-      <img src="/assets/img/sponsors/freitas-maconnerie.jpg" alt="Entreprise Freitas Maçonnerie" style="max-width: 300px; width: 100%; height: auto;">
-    </a>
-    <p>
-      <a href="https://www.entreprise-freitas-maconnerie.fr/" target="_blank" rel="noopener"><strong>Entreprise Freitas Maçonnerie</strong></a> :
-      entreprise du BTP en Bourgogne spécialisée en maçonnerie, aménagements extérieurs et rénovation, pour les particuliers, les entreprises et les collectivités.
-    </p>
-  </div>
+  <p><em>Soyez le premier sponsor du club ! Découvrez nos <a href="/2026/11/09/appel-a-sponsors.html#sponsoring">offres de sponsoring</a>.</em></p>
 </section>
 
 <section class="support-section support-section--mecenat" aria-labelledby="nos-mecenes">
@@ -33,13 +25,14 @@ description: "Les sponsors et mécènes qui soutiennent Oze Running Club, associ
 
   <!--
     Liste des mécènes : nom (ou petit logo) uniquement, sans slogan, lien
-    promotionnel ni message commercial. Exemple :
-    <ul class="mecene-list">
-      <li>Nom du mécène</li>
-    </ul>
-    Retirer le message « Soyez le premier mécène du club ! » dès le premier mécène.
+    promotionnel ni message commercial.
   -->
-  <p><em>Soyez le premier mécène du club !</em></p>
+  <ul class="mecene-list">
+    <li>
+      <img src="/assets/img/sponsors/freitas-maconnerie.jpg" alt="" loading="lazy">
+      Entreprise Freitas Maçonnerie
+    </li>
+  </ul>
 </section>
 
 <section class="support-cta" aria-labelledby="devenir-mecene">
