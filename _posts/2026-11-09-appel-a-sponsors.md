@@ -1,52 +1,86 @@
 ---
 layout: post
-title: "Devenez sponsor de l'Oze Running Club !"
+title: "Entreprises locales : devenez sponsor ou mécène d'Oze Running Club !"
 date: 2026-11-09
+description: "Artisans, commerçants, TPE de la région de Blaisy-Bas : soutenez Oze Running Club par le sponsoring (Sponsor Foulée, sponsor premium) ou par un don de mécénat."
 ---
 
-L'Oze Running Club est une association de course à pied basée à Blaisy-Bas. Nos coureuses et coureurs s'entraînent chaque semaine et participent à de nombreux trails et courses en Bourgogne et au-delà.
+Oze Running Club est une association de course à pied basée à Blaisy-Bas. Nos coureuses et coureurs s'entraînent chaque semaine et participent à de nombreux trails et courses en Bourgogne et au-delà.
 
-Vous êtes une entreprise, un commerce ou un artisan de la région et vous souhaitez soutenir le sport local ? **Devenez sponsor ou mécène du club !** Votre soutien nous aide à équiper nos membres, à organiser nos événements et à faire vivre le club.
+Vous êtes une entreprise, un commerce ou un artisan de la région et vous souhaitez soutenir le sport local ? Vous pouvez le faire de deux façons :
 
-L'Oze Running Club est une association loi 1901 : nos prestations de sponsoring sont facturées **sans TVA** (TVA non applicable). Le montant indiqué est donc le montant que vous payez.
+- **le sponsoring** : une prestation publicitaire, en échange d'un paiement, qui donne lieu à une facture ;
+- **le mécénat** : un don, sans contrepartie publicitaire, qui peut ouvrir droit à une réduction d'impôt si les conditions fiscales sont remplies.
 
-## Sponsor Foulée : 200 € pour un an
+<section class="support-section support-section--sponsoring" aria-labelledby="sponsoring" markdown="1">
+<span class="support-tag">Sponsoring</span>
+<h2 id="sponsoring">Le sponsoring : gagnez en visibilité</h2>
 
-Pour **200 €**, devenez **Sponsor Foulée** du club pendant **un an** :
+Les prestations de sponsoring font l'objet d'une facture établie conformément au régime fiscal applicable à l'association.
 
-- votre logo et un lien vers votre site sur notre [page Sponsors](/sponsors/) pendant un an ;
-- un lien vers votre site dans nos publications sur les réseaux sociaux.
+<div class="support-offer" markdown="1">
+<h3>Sponsor Foulée — 200 € / an</h3>
+
+Pendant **un an** :
+
+- votre logo sur notre [page Sponsors](/sponsors/) ;
+- un lien vers le site de votre entreprise ;
+- une visibilité prévue sur nos réseaux sociaux.
 
 Une facture vous est remise.
+</div>
 
-## Sponsor premium : les vestes du club
+<div class="support-offer" markdown="1">
+<h3>Sponsor premium — 3 000 €</h3>
 
-Pour la saison à venir, nous allons équiper nos membres d'environ **40 vestes aux couleurs du club**, portées à l'entraînement et sur les trails.
+Pour la saison à venir, nous allons équiper nos membres d'environ **40 vestes aux couleurs du club**, portées à l'entraînement et sur les trails. Nous recherchons un sponsor premium pour financer ce projet.
 
 <figure>
-  <img src="/assets/img/news/veste-oze.jpeg" alt="Prototype de la veste de l'Oze Running Club, avec l'emplacement du logo du sponsor" style="width: 100%; height: auto;">
+  <img src="/assets/img/news/veste-oze.jpeg" alt="Prototype de la veste d'Oze Running Club, avec l'emplacement du logo du sponsor sur la poitrine" style="width: 100%; height: auto;">
   <figcaption><em>Prototype de la veste du club : votre logo sur la poitrine, à côté de celui de l'ORC.</em></figcaption>
 </figure>
 
-Nous recherchons un **sponsor premium** pour financer ce projet à hauteur de **3 000 €** (facture remise, TVA non applicable). En échange :
+En échange :
 
-- votre logo sur les ~40 vestes du club, visible sur tous les trails et courses où nous allons ;
-- une mise en avant en tête de notre [page Sponsors](/sponsors/), avec un lien vers votre site ;
-- des remerciements sur nos réseaux et lors de nos événements.
+- votre logo sur la poitrine d'environ 40 vestes ;
+- une visibilité lors des entraînements et des compétitions ;
+- une présence renforcée sur notre [page Sponsors](/sponsors/), en tête de page, avec un lien vers votre site ;
+- des remerciements sur nos réseaux sociaux.
 
-C'est un projet unique, sans partenariat à long terme, mais avec une grosse visibilité sur les trails de la région.
+Une facture vous est remise. C'est un projet unique, sans partenariat à long terme, mais avec une grosse visibilité sur les trails de la région.
+</div>
 
-## Mécène : un don pour soutenir le club
+<p><a class="btn" href="mailto:info@oze-running.club?subject=Sponsoring%20-%20Oze%20Running%20Club">Devenir sponsor</a></p>
+</section>
 
-Vous souhaitez simplement aider le club, sans contrepartie publicitaire ? Devenez **mécène** en faisant un don, du montant de votre choix. Votre don sert directement à la vie du club : équipement, organisation d'événements, déplacements sur les courses.
+<section class="support-section support-section--mecenat" aria-labelledby="mecenat" markdown="1">
+<span class="support-tag">Mécénat</span>
+<h2 id="mecenat">Devenez mécène : soutenez le running local !</h2>
 
-Avec votre accord, nous vous remercions en citant votre nom sur notre [page Sponsors](/sponsors/), dans la rubrique mécènes.
+Vous êtes artisan, commerçant, indépendant ou dirigeant d'une petite entreprise ?
 
-À la différence du sponsoring, le mécénat n'est pas une prestation : il ne donne pas lieu à une facture ni à une mise en avant publicitaire.
+Vous pouvez soutenir Oze Running Club par un don libre, par exemple de 200 € ou 500 €.
+
+Votre générosité nous aide à financer les activités sportives, les équipements et le fonctionnement associatif du club.
+
+En remerciement, nous pouvons mentionner discrètement le nom ou le logo de votre entreprise sur notre [page Sponsors](/sponsors/#nos-mecenes), sans publicité commerciale.
+
+Le mécénat n'est pas une prestation : il ne donne pas lieu à une facture ni à une contrepartie publicitaire (les logos sur les vestes sont réservés au sponsoring).
+
+<div class="tax-note" markdown="1">
+<h3>Un avantage fiscal possible pour votre entreprise</h3>
+
+Le mécénat d'entreprise peut ouvrir droit à une réduction d'impôt de 60 % du montant du don, dans les limites légales, si l'association et le don remplissent les conditions fiscales requises (article 238 bis du Code général des impôts).
+
+Oze Running Club procède actuellement à la vérification de son éligibilité au mécénat. La délivrance d'un reçu fiscal n'est donc pas garantie à ce stade.
+</div>
+
+<p><a class="btn btn--mecenat" href="mailto:info@oze-running.club?subject=Demande%20de%20m%C3%A9c%C3%A9nat%20-%20Oze%20Running%20Club">Je souhaite soutenir Oze Running Club</a></p>
+</section>
 
 ## Nous contacter
 
-Pour devenir sponsor ou mécène, ou pour en savoir plus, écrivez-nous à <a href="mailto:info@oze-running.club">info@oze-running.club</a>.
+Pour devenir sponsor ou mécène, ou pour en savoir plus, écrivez-nous à <a href="mailto:info@oze-running.club">info@oze-running.club</a>. Retrouvez tous nos soutiens sur la page [Ils soutiennent Oze Running Club](/sponsors/).
 
 Sportivement,<br>
-L'équipe de l'Oze Running Club
+L'équipe d'Oze Running Club
