@@ -21,6 +21,7 @@ description: "Les sponsors et mécènes qui soutiennent Oze Running Club, associ
   <span class="support-tag">Mécénat</span>
   <h2 id="nos-mecenes">Nos mécènes</h2>
   <p>Nos mécènes soutiennent librement les activités sportives d'Oze Running Club, sans contrepartie publicitaire.</p>
+  <p>Merci à :</p>
 
   <!--
     Liste des mécènes : nom (ou petit logo) uniquement, sans slogan, lien
